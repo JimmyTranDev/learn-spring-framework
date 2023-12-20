@@ -28,7 +28,8 @@ class BusinessService {
 
 }
 
-@Component
+// @Component
+@Named
 class DataService {
 }
 
